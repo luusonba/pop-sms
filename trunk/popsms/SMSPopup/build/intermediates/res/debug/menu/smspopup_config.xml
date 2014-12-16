@@ -7,4 +7,4 @@
         android:showAsAction="never"
         android:title="@string/pref_sendemail_title"/>
 
-</menu><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/menu/smspopup_config.xml -->
+</menu><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/menu/smspopup_config.xml -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values-pt-rBR/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values-pt-rBR/strings.xml -->
     <eat-comment/>
     <string name="button_close">Fechar</string>
     <string name="button_delete">Excluir</string>

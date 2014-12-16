@@ -5,4 +5,4 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="@string/button_unlock" />
-<!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout-v14/unlock_button.xml -->
+<!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/layout-v14/unlock_button.xml -->

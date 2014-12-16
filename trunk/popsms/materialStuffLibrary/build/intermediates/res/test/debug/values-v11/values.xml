@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
@@ -38,7 +38,7 @@
         <item name="android:textColorHighlight">?android:attr/textColorHighlightInverse</item>
         <item name="android:textColorLink">?android:attr/textColorLinkInverse</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values-v11/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Base.Theme.AlertDialogPro" parent="Theme.AppCompat.Dialog">
         <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
@@ -48,7 +48,7 @@
         <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
         <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Base.Theme.AppCompat" parent="Base.V11.Theme.AppCompat">
         <item name="android:actionModeCutDrawable">?actionModeCutDrawable</item>

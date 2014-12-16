@@ -11,4 +11,4 @@
     android:paddingRight="24dip"
     android:textAppearance="?attr/adpListMultiChoiceTextAppearance"
     android:textColor="?attr/adpListItemTextColor" />
-<!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/layout/adp_select_dialog_singlechoice_material.xml --><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/layout/adp_select_dialog_singlechoice_material.xml -->
+<!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/layout/adp_select_dialog_singlechoice_material.xml --><!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/layout/adp_select_dialog_singlechoice_material.xml -->

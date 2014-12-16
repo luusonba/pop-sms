@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values-v19/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values-v19/defaults.xml -->
     <eat-comment/>
     <string name="pref_button1_default">1</string>
     <string name="pref_button2_default">5</string>

@@ -40,4 +40,4 @@
         android:layout_height="@dimen/smspopup_pager_margin"
         android:layout_weight="0" />
 
-</LinearLayout><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout/popup.xml -->
+</LinearLayout><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/layout/popup.xml -->

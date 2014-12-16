@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="adpButtonBarButtonStyle"/>
     <attr format="reference" name="adpButtonBarNegativeButtonStyle"/>
@@ -18,7 +18,7 @@
     <attr format="dimension" name="adpTitleMinHeight"/>
     <attr format="reference" name="alertDialogProStyle"/>
     <attr format="reference" name="alertDialogProTheme"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -36,11 +36,11 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <color name="adp_mtrl_ripple_dark">#20ffffff</color>
     <color name="adp_mtrl_ripple_light">#20444444</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <color name="background_floating_material_dark">#ff424242</color>
     <color name="background_floating_material_light">#ffeeeeee</color>
@@ -146,7 +146,7 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <dimen name="adp_mtrl_alert_dialog_button_bar_height">48dip</dimen>
     <dimen name="adp_mtrl_alert_dialog_padding">24dp</dimen>
@@ -158,7 +158,7 @@
     <dimen name="adp_mtrl_control_corner">2dp</dimen>
     <dimen name="adp_mtrl_control_inset">4dp</dimen>
     <dimen name="adp_mtrl_control_padding">4dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -170,7 +170,7 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <item name="adp_alertTitle" type="id"/>
     <item name="adp_button1" type="id"/>
@@ -190,7 +190,7 @@
     <item name="adp_titleDividerTop" type="id"/>
     <item name="adp_title_template" type="id"/>
     <item name="adp_topPanel" type="id"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <item name="home" type="id"/>
     <item name="progress_circular" type="id"/>
@@ -214,7 +214,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialogPro">
         <!-- The core library has no default style -->
@@ -239,7 +239,7 @@
         <item name="android:windowEnterAnimation">@anim/adp_popup_enter_material</item>
         <item name="android:windowExitAnimation">@anim/adp_popup_exit_material</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
         <item name="android:textColor">?android:textColorPrimary</item>
@@ -381,7 +381,7 @@
     </style>
     <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Subtitle"/>
     <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="TextAppearance.AppCompat.Widget.ActionBar.Title"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Theme.AlertDialogPro" parent="Theme.AppCompat.Dialog"/>
     <style name="Base.Theme.AlertDialogPro.Light" parent="Theme.AppCompat.Light.Dialog">
@@ -474,7 +474,7 @@
         <item name="adpButtonBarButtonStyle">@style/Widget.AlertDialogPro.Material.Light.Button</item>
         <item name="alertDialogProStyle">@style/AlertDialogPro.Material.Light</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Theme.AppCompat" parent="Base.V7.Theme.AppCompat"/>
     <style name="Base.Theme.AppCompat.CompactMenu" parent="">
@@ -874,7 +874,7 @@
         <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
         <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.AlertDialogPro.Light.ListView" parent="android:Widget.ListView">
         <item name="android:listSelector">?attr/adpListItemBackground</item>
@@ -898,7 +898,7 @@
         <item name="android:minWidth">64dip</item>
         <item name="android:maxLines">2</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.AppCompat.ActionBar" parent="">
         <item name="displayOptions">showTitle</item>
@@ -1114,7 +1114,7 @@
         <item name="android:scaleType">center</item>
         <item name="android:background">?attr/selectableItemBackground</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <style name="DialogWindowTitle.AlertDialogPro" parent="">
         <item name="android:maxLines">1</item>
@@ -1130,7 +1130,7 @@
         </item>
     </style>
     <style name="DialogWindowTitle.AlertDialogPro.Material.Light"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1298,7 +1298,7 @@
     <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
         <item name="android:layout_marginLeft">@dimen/abc_dropdownitem_text_padding_left</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AlertDialogPro" parent="android:TextAppearance"/>
     <style name="TextAppearance.AlertDialogPro.DialogWindowTitle">
@@ -1307,7 +1307,7 @@
     <style name="TextAppearance.AlertDialogPro.Material.DialogWindowTitle" parent="TextAppearance.AppCompat.Title"/>
     <style name="TextAppearance.AlertDialogPro.Material.ListChoice" parent="TextAppearance.AppCompat.Medium"/>
     <style name="TextAppearance.AlertDialogPro.Material.Subhead" parent="TextAppearance.AppCompat.Subhead"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
@@ -1353,7 +1353,7 @@
     <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item"/>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle"/>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.AlertDialogPro" parent="Base.Theme.AlertDialogPro">
         <item name="adpButtonBarPositiveButtonStyle">?attr/adpButtonBarButtonStyle</item>
@@ -1373,7 +1373,7 @@
         <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
         <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
     <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
@@ -1396,7 +1396,7 @@
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AlertDialogPro" parent="android:Widget"/>
     <style name="Widget.AlertDialogPro.Material.Button" parent="Base.Widget.AlertDialogPro.Material.Button"/>
@@ -1406,7 +1406,7 @@
     <style name="Widget.AlertDialogPro.Material.Light.Button" parent="Base.Widget.AlertDialogPro.Material.Light.Button"/>
     <style name="Widget.AlertDialogPro.Material.Light.ListView" parent="Base.Widget.AlertDialogPro.Light.ListView"/>
     <style name="Widget.AlertDialogPro.Material.ListView" parent="Base.Widget.AlertDialogPro.ListView"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar"/>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid"/>

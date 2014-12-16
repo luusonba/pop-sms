@@ -79,4 +79,4 @@
       android:defaultValue="@string/pref_flashled_pattern_default"
       android:dependency="@string/c_pref_flashled_key" />
   </PreferenceCategory>
-</PreferenceScreen><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/xml/configcontact.xml -->
+</PreferenceScreen><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/xml/configcontact.xml -->

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values-v11/dimens.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values-v11/dimens.xml -->
     <eat-comment/>
     <dimen name="contact_thumbnail_border">0dp</dimen>
     <dimen name="contact_thumbnail_margin">2dp</dimen>
     <dimen name="contact_thumbnail_size">100dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
@@ -43,7 +43,7 @@
         <item name="android:textColorHighlight">?android:attr/textColorHighlightInverse</item>
         <item name="android:textColorLink">?android:attr/textColorLinkInverse</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values-v11/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Base.Theme.AlertDialogPro" parent="Theme.AppCompat.Dialog">
         <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
@@ -53,7 +53,7 @@
         <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
         <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Base.Theme.AppCompat" parent="Base.V11.Theme.AppCompat">
         <item name="android:actionModeCutDrawable">?actionModeCutDrawable</item>
@@ -185,7 +185,7 @@
         <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
         <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values-v11/styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values-v11/styles.xml -->
     <eat-comment/>
     <style name="ButtonBar" parent="@android:style/Holo.ButtonBar.AlertDialog"/>
     <style name="ButtonBarButton" parent="@android:style/Widget.Holo.Button.Borderless.Small"/>
@@ -202,7 +202,7 @@
 
     </style>
     <style name="NotificationIconPreferenceListItem" parent="@android:style/TextAppearance.Large"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme.Holo">
         <item name="android:windowNoTitle">true</item>

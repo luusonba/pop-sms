@@ -7,4 +7,4 @@
     android:gravity="center_vertical"
     android:minHeight="?android:attr/listPreferredItemHeight"
     android:paddingLeft="10dp"
-    android:textAppearance="?android:attr/textAppearanceMedium" /><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout/simple_list_item_1_medium.xml -->
+    android:textAppearance="?android:attr/textAppearanceMedium" /><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/layout/simple_list_item_1_medium.xml -->

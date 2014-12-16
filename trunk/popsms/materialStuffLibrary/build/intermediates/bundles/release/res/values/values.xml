@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_attrs.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_attrs.xml -->
     <eat-comment/>
     <attr format="reference" name="adpButtonBarButtonStyle"/>
     <attr format="reference" name="adpButtonBarNegativeButtonStyle"/>
@@ -18,12 +18,12 @@
     <attr format="dimension" name="adpTitleMinHeight"/>
     <attr format="reference" name="alertDialogProStyle"/>
     <attr format="reference" name="alertDialogProTheme"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_colors.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_colors.xml -->
     <eat-comment/>
     <color name="adp_mtrl_ripple_dark">#20ffffff</color>
     <color name="adp_mtrl_ripple_light">#20444444</color>
     <declare-styleable name="AlertDialogPro"><attr format="reference" name="adpLayout"/><attr format="reference" name="adpListLayout"/><attr format="reference" name="adpListItemLayout"/><attr format="reference" name="adpMultiChoiceItemLayout"/><attr format="reference" name="adpSingleChoiceItemLayout"/></declare-styleable>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_dimens.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_dimens.xml -->
     <eat-comment/>
     <dimen name="adp_mtrl_alert_dialog_button_bar_height">48dip</dimen>
     <dimen name="adp_mtrl_alert_dialog_padding">24dp</dimen>
@@ -35,7 +35,7 @@
     <dimen name="adp_mtrl_control_corner">2dp</dimen>
     <dimen name="adp_mtrl_control_inset">4dp</dimen>
     <dimen name="adp_mtrl_control_padding">4dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_ids.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_ids.xml -->
     <eat-comment/>
     <item name="adp_alertTitle" type="id"/>
     <item name="adp_button1" type="id"/>
@@ -55,7 +55,7 @@
     <item name="adp_titleDividerTop" type="id"/>
     <item name="adp_title_template" type="id"/>
     <item name="adp_topPanel" type="id"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
     <eat-comment/>
     <style name="AlertDialogPro">
         <!-- The core library has no default style -->
@@ -65,7 +65,7 @@
         <item name="adpMultiChoiceItemLayout">@null</item>
         <item name="adpSingleChoiceItemLayout">@null</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
     <eat-comment/>
     <style name="AlertDialogPro.Material">
         <item name="adpLayout">@layout/adp_alert_dialog_material</item>
@@ -76,17 +76,17 @@
         </item>
     </style>
     <style name="AlertDialogPro.Material.Light"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
     <eat-comment/>
     <style name="Animation.AlertDialogPro" parent="android:Animation"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
     <eat-comment/>
     <style name="Animation.AlertDialogPro.Material"/>
     <style name="Animation.AlertDialogPro.Material.Dialog">
         <item name="android:windowEnterAnimation">@anim/adp_popup_enter_material</item>
         <item name="android:windowExitAnimation">@anim/adp_popup_exit_material</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_themes.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_themes.xml -->
     <eat-comment/>
     <style name="Base.Theme.AlertDialogPro" parent="Theme.AppCompat.Dialog"/>
     <style name="Base.Theme.AlertDialogPro.Light" parent="Theme.AppCompat.Light.Dialog">
@@ -131,7 +131,7 @@
         <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
         <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_themes.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_themes.xml -->
     <eat-comment/>
     <style name="Base.Theme.AlertDialogPro.Material" parent="Theme.AlertDialogPro">
         <!-- Animation -->
@@ -181,7 +181,7 @@
         <item name="adpButtonBarButtonStyle">@style/Widget.AlertDialogPro.Material.Light.Button</item>
         <item name="alertDialogProStyle">@style/AlertDialogPro.Material.Light</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
     <eat-comment/>
     <style name="Base.Widget.AlertDialogPro.Light.ListView" parent="android:Widget.ListView">
         <item name="android:listSelector">?attr/adpListItemBackground</item>
@@ -205,7 +205,7 @@
         <item name="android:minWidth">64dip</item>
         <item name="android:maxLines">2</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
     <eat-comment/>
     <style name="DialogWindowTitle.AlertDialogPro" parent="">
         <item name="android:maxLines">1</item>
@@ -213,7 +213,7 @@
         <item name="android:textAppearance">@style/TextAppearance.AlertDialogPro.DialogWindowTitle
         </item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
     <eat-comment/>
     <style name="DialogWindowTitle.AlertDialogPro.Material">
         <item name="android:maxLines">1</item>
@@ -223,18 +223,18 @@
         </item>
     </style>
     <style name="DialogWindowTitle.AlertDialogPro.Material.Light"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
     <eat-comment/>
     <style name="TextAppearance.AlertDialogPro" parent="android:TextAppearance"/>
     <style name="TextAppearance.AlertDialogPro.DialogWindowTitle">
         <item name="android:textSize">18sp</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
     <eat-comment/>
     <style name="TextAppearance.AlertDialogPro.Material.DialogWindowTitle" parent="TextAppearance.AppCompat.Title"/>
     <style name="TextAppearance.AlertDialogPro.Material.ListChoice" parent="TextAppearance.AppCompat.Medium"/>
     <style name="TextAppearance.AlertDialogPro.Material.Subhead" parent="TextAppearance.AppCompat.Subhead"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_themes.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_themes.xml -->
     <eat-comment/>
     <style name="Theme.AlertDialogPro" parent="Base.Theme.AlertDialogPro">
         <item name="adpButtonBarPositiveButtonStyle">?attr/adpButtonBarButtonStyle</item>
@@ -246,7 +246,7 @@
         <item name="adpButtonBarNegativeButtonStyle">?attr/adpButtonBarButtonStyle</item>
         <item name="adpButtonBarNeutralButtonStyle">?attr/adpButtonBarButtonStyle</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_themes.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_themes.xml -->
     <eat-comment/>
     <style name="Theme.AlertDialogPro.Material" parent="Base.Theme.AlertDialogPro.Material">
         <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
@@ -256,10 +256,10 @@
         <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
         <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_core_styles.xml -->
     <eat-comment/>
     <style name="Widget.AlertDialogPro" parent="android:Widget"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values/adp_mtrl_styles.xml -->
     <eat-comment/>
     <style name="Widget.AlertDialogPro.Material.Button" parent="Base.Widget.AlertDialogPro.Material.Button"/>
     <style name="Widget.AlertDialogPro.Material.ButtonBar" parent="">

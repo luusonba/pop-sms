@@ -32,4 +32,4 @@
     <item android:state_focused="true" android:state_selected="false" android:state_pressed="true" android:drawable="@drawable/vpi__tab_unselected_pressed_holo" />
     <item android:state_focused="true" android:state_selected="true"  android:state_pressed="true" android:drawable="@drawable/vpi__tab_selected_pressed_holo" />
 </selector>
-<!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/drawable/vpi__tab_indicator.xml -->
+<!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/drawable/vpi__tab_indicator.xml -->

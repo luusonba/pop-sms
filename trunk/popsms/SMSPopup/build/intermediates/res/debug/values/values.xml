@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/arrays.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <array name="button_drawables">
         <item>@null</item>
@@ -225,7 +225,7 @@
         <item>0,800,200,800,200,800</item>
         <item>@string/pref_custom_val</item>
     </string-array>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="adpButtonBarButtonStyle"/>
     <attr format="reference" name="adpButtonBarNegativeButtonStyle"/>
@@ -243,25 +243,25 @@
     <attr format="dimension" name="adpTitleMinHeight"/>
     <attr format="reference" name="alertDialogProStyle"/>
     <attr format="reference" name="alertDialogProTheme"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="boolean" name="centered"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="color" name="selectedColor"/>
     <attr format="dimension" name="strokeWidth"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <attr format="string" name="title"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="color" name="unselectedColor"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
@@ -269,14 +269,14 @@
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <bool name="default_circle_indicator_centered">true</bool>
     <bool name="default_circle_indicator_snap">false</bool>
     <bool name="default_line_indicator_centered">true</bool>
     <bool name="default_title_indicator_selected_bold">true</bool>
     <bool name="default_underline_indicator_fades">true</bool>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <bool name="pref_autorotate_default">true</bool>
     <bool name="pref_delivery_report_default">false</bool>
@@ -298,7 +298,7 @@
     <bool name="pref_split_message_default">false</bool>
     <bool name="pref_useUnlockButton_default">false</bool>
     <bool name="pref_vibrate_default">true</bool>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -306,20 +306,20 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="adp_mtrl_ripple_dark">#20ffffff</color>
     <color name="adp_mtrl_ripple_light">#20444444</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <color name="background_floating_material_dark">#ff424242</color>
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/colors.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="black_translucent">#80000000</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -329,13 +329,13 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/colors.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="colorPrimary">@color/material_blue_grey_800</color>
     <color name="colorPrimaryDark">@color/material_blue_grey_900</color>
     <color name="colorSecondary">@color/material_deep_teal_200</color>
     <color name="colorSecondaryDark">@color/material_deep_teal_500</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
     <color name="default_circle_indicator_page_color">#00000000</color>
@@ -346,7 +346,7 @@
     <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
     <color name="default_title_indicator_text_color">#BBFFFFFF</color>
     <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -379,7 +379,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <color name="vpi__background_holo_dark">#ff000000</color>
     <color name="vpi__background_holo_light">#fff3f3f3</color>
@@ -389,7 +389,7 @@
     <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
     <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
     <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/colors.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="windowBackgroundColor">#333333</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
@@ -421,7 +421,7 @@
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
@@ -460,7 +460,7 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="adp_mtrl_alert_dialog_button_bar_height">48dip</dimen>
     <dimen name="adp_mtrl_alert_dialog_padding">24dp</dimen>
@@ -472,12 +472,12 @@
     <dimen name="adp_mtrl_control_corner">2dp</dimen>
     <dimen name="adp_mtrl_control_inset">4dp</dimen>
     <dimen name="adp_mtrl_control_padding">4dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/dimens.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="contact_thumbnail_border">10dp</dimen>
     <dimen name="contact_thumbnail_margin">3dp</dimen>
     <dimen name="contact_thumbnail_size">80dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="default_circle_indicator_radius">3dp</dimen>
     <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
@@ -492,7 +492,7 @@
     <dimen name="default_title_indicator_text_size">15dp</dimen>
     <dimen name="default_title_indicator_title_padding">5dp</dimen>
     <dimen name="default_title_indicator_top_padding">7dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -500,19 +500,19 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/dimens.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="smspopup_bottom_margin">50dp</dimen>
     <dimen name="smspopup_pager_height">320dp</dimen>
     <dimen name="smspopup_pager_margin">70dp</dimen>
     <dimen name="smspopup_pager_width">318dp</dimen>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="adp_alertTitle" type="id"/>
     <item name="adp_button1" type="id"/>
@@ -532,7 +532,7 @@
     <item name="adp_titleDividerTop" type="id"/>
     <item name="adp_title_template" type="id"/>
     <item name="adp_topPanel" type="id"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <item name="home" type="id"/>
     <item name="progress_circular" type="id"/>
@@ -540,18 +540,18 @@
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/config.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/config.xml -->
     <eat-comment/>
     <integer name="config_activityDefaultDur">200</integer>
     <integer name="config_activityShortDur">125</integer>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="default_circle_indicator_orientation">0</integer>
     <integer name="default_title_indicator_footer_indicator_style">2</integer>
     <integer name="default_title_indicator_line_position">0</integer>
     <integer name="default_underline_indicator_fade_delay">300</integer>
     <integer name="default_underline_indicator_fade_length">400</integer>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -569,7 +569,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name" translatable="false">SMS Popup</string>
     <string name="button_close">Close</string>
@@ -585,7 +585,7 @@
     <string name="button_unlock">Unlock</string>
     <string name="button_view">View</string>
     <string name="button_view_mms">View MMS</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="c_pref_category">c_pref_category</string>
     <string name="c_pref_flashled_color_custom_key">c_flashled_color_custom</string>
@@ -600,7 +600,7 @@
     <string name="c_pref_vibrate_key">c_vibrate</string>
     <string name="c_pref_vibrate_pattern_custom_key">c_vibrate_pattern_custom</string>
     <string name="c_pref_vibrate_pattern_key">c_vibrate_pattern</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="contact_customization_add">Add Custom Notifications</string>
     <string name="contact_customization_add_hint">Add/Edit contact notifications…</string>
@@ -610,10 +610,10 @@
     <string name="contact_customization_remove">Remove Custom Notification</string>
     <string name="contact_customization_save">Save</string>
     <string name="contact_customization_title">Notifications for %s</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="contacts_key">contacts_key</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="error_message">Error</string>
     <string name="error_no_voice_recognition">Voice recognition not available on this device</string>
@@ -639,49 +639,49 @@
     <string formatted="false" name="notification_scroll" translatable="false">%s: %s</string>
     <string name="notification_scroll_privacy">New message from: %s</string>
     <string name="notification_scroll_privacy_no_name">New message</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_about_key">about</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_about_summary">About SMS Popup</string>
     <string name="pref_about_text" translatable="false">Created by: Adam K\nGoogle+: http://gplus.to/smspopup\nBlog: http://www.everythingandroid.net\n\nSMS Popup provides a convenient popup dialog when a message is received that allows you to quickly read and reply to messages.  It also provides in-depth customization of message notifications including contact specific sound, vibrate and LED settings.\n\nFeel free to email me any comments, suggestions or bugs.\n\nCredits to Min Tran for the app icon.\n(http://min.frexy.com)\n</string>
     <string name="pref_about_title">About</string>
     <string name="pref_additional_summary">Additional SMS Popup configuration</string>
     <string name="pref_additional_title">Additional Settings</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_autorotate_key">autorotate</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_autorotate_summaryoff">Popup will auto-rotate based on the screen behind it</string>
     <string name="pref_autorotate_summaryon">Popup will always autorotate</string>
     <string name="pref_autorotate_title">Autorotate Always On</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_button1_default">1</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_button1_key">button1</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_button1_title">Button 1 Configuration</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_button2_default">2</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_button2_key">button2</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_button2_title">Button 2 Configuration</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_button3_default">5</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_button3_key">button3</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_button3_title">Button 3 Configuration</string>
     <string name="pref_button_config_summary">Popup button configuration</string>
@@ -691,45 +691,45 @@
     <string name="pref_contacts_summary">Individual contact customization</string>
     <string name="pref_contacts_title">Contacts Notifications</string>
     <string name="pref_custom">Custom</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_custom_val">custom</string>
     <string name="pref_delivery_report_key">deliveryreport</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_delivery_report_summary">Request a delivery report for each message you send via quick reply</string>
     <string name="pref_delivery_report_title">Delivery Reports</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_dimscreen_key">dimscreen</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_dimscreen_summaryoff">Popup screen will be bright</string>
     <string name="pref_dimscreen_summaryon">Popup screen will be dim (saves battery)</string>
     <string name="pref_dimscreen_title">Dim Popup Screen</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_docked_key">docked</string>
     <string name="pref_donate_key">donate</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_donate_market_button">Donate via Android Market</string>
     <string name="pref_donate_paypal_button">Donate via PayPal</string>
     <string name="pref_donate_text">SMS Popup is a free application that I work on in my spare time.  If you find it useful, and can spare a few bucks, a donation would be much appreciated.\n\nThanks!</string>
     <string name="pref_donate_title">Donate to SMS Popup</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_donated_key">donated</string>
     <string name="pref_enabled_key">enabled</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_enabled_summaryoff">SMS Popup is disabled</string>
     <string name="pref_enabled_summaryon">SMS Popup is enabled</string>
     <string name="pref_enabled_title">Enable SMS Popup</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_faq_key">faq</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_faq_summary">Frequently Asked Questions</string>
     <string name="pref_faq_title">FAQ</string>
@@ -739,43 +739,43 @@
     <string name="pref_flashled_color_custom_dialog_green">Green:</string>
     <string name="pref_flashled_color_custom_dialog_preview">Preview:</string>
     <string name="pref_flashled_color_custom_dialog_red">Red:</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_flashled_color_custom_key">flashled_color_custom</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_flashled_color_custom_set">Custom LED color set</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_flashled_color_default">Yellow</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_flashled_color_key">flashled_color</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_flashled_color_summary">The color of the LED</string>
     <string name="pref_flashled_color_title">LED Color</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_flashled_key">flashled</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_flashled_pattern_bad">Custom LED blink rate is invalid</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_flashled_pattern_custom_key">flashled_pattern_custom</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_flashled_pattern_default">1000,1000</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_flashled_pattern_help">Enter the time in milliseconds to turn the LED on and off</string>
     <string name="pref_flashled_pattern_help_off">Time off:</string>
     <string name="pref_flashled_pattern_help_on">Time on:</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_flashled_pattern_key">flashled_pattern</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_flashled_pattern_ok">Custom LED blink rate set</string>
     <string name="pref_flashled_pattern_summary">Set the speed the LED blinks</string>
@@ -792,10 +792,10 @@
     <string name="pref_led_pattern_entries_fast">Fast</string>
     <string name="pref_led_pattern_entries_normal">Normal</string>
     <string name="pref_led_pattern_entries_slow">Slow</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_markread_key">markread</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_markread_summaryoff">Messages will not be marked as read when clicking \"Close\"</string>
     <string name="pref_markread_summaryon">Messages will be marked as read when clicking \"Close\"</string>
@@ -805,139 +805,139 @@
     <string name="pref_notif_category_title">Notification Configuration</string>
     <string name="pref_notif_default_summary">Notifications for all contacts without an individual customization</string>
     <string name="pref_notif_default_title">Default Notifications</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_enabled_key">notification</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_enabled_summaryoff">Notifications are disabled</string>
     <string name="pref_notif_enabled_summaryon">Notifications are enabled</string>
     <string name="pref_notif_enabled_title">Enable Notifications</string>
     <string name="pref_notif_enabled_warning">To avoid conflicts and multiple alerts, please disable the system SMS notifications and any other apps that provide a notification when a SMS is received.\n\nTo turn off the system notification, go to the messaging app, hit menu -> settings and un-check notifications.</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_help_key">notif_help</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_help_message">SMS Popup offers the ability to customize notifications on a per contact basis.  When a new message comes in, SMS Popup will first check if the contact has a customized notification.  If so, those settings are used, otherwise the default notifications are used.\n\nUsing this functionality, you could set things up so only a few contacts show a popup while the rest trigger a regular notification.  You could also ignore certain contacts by setting their notification to silent.</string>
     <string name="pref_notif_help_summary">Notifications Help</string>
     <string name="pref_notif_help_title">Help - I\'m confused!</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_notif_icon_default">0</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_icon_key">notificon</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_icon_summary">Change the notification area icon</string>
     <string name="pref_notif_icon_title">Notification Icon</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_interval_default">5</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_interval_dialogTitle">Interval (minutes)</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_interval_key">notif_repeat_interval</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_interval_summary">The time period between notification reminders</string>
     <string name="pref_notif_repeat_interval_title">Reminder Interval</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_key">notif_repeat</string>
     <string name="pref_notif_repeat_screen_on_key">notif_repeat_screen_on</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_screen_on_summaryoff">Reminders will not turn screen on</string>
     <string name="pref_notif_repeat_screen_on_summaryon">Reminders will turn screen on again</string>
     <string name="pref_notif_repeat_screen_on_title">Screen On for Reminders</string>
     <string name="pref_notif_repeat_summaryoff">Unread message reminders are disabled</string>
     <string name="pref_notif_repeat_summaryon">Unread message reminders are enabled</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_times_default">2</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_times_entries_keep_repeting">Keep repeating</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_times_key">notif_repeat_num</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_repeat_times_summary">The number of reminder notifications to play</string>
     <string name="pref_notif_repeat_times_title">Number of Reminders</string>
     <string name="pref_notif_repeat_title">Enable Reminders</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_signature_key">signature</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_signature_summary">Appears at the end of every quick reply</string>
     <string name="pref_notif_signature_title">Quick Reply Signature</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_sound_key">notifsound</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_sound_summary">This sound will play when a message is received</string>
     <string name="pref_notif_sound_title">Notification Sound</string>
     <string name="pref_notif_summary">Notification configuration</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notif_test_key">notiftest</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notif_test_message">Testing your notification now!</string>
     <string name="pref_notif_test_summary">Test out your notification</string>
     <string name="pref_notif_test_title">Test Notification</string>
     <string name="pref_notif_title">Notifications</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_notifyOnCall_key">notifyoncall</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_notifyOnCall_summaryoff">Sound will not play while on a call</string>
     <string name="pref_notifyOnCall_summaryon">Sound will play while on a call</string>
     <string name="pref_notifyOnCall_title">Notify On Call</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_onlyShowOnKeyguard_key">showonkeyguard</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_onlyShowOnKeyguard_summaryoff">Popup will always show</string>
     <string name="pref_onlyShowOnKeyguard_summaryon">Popup window will only show when keyguard is engaged</string>
     <string name="pref_onlyShowOnKeyguard_title">Restrict Popup</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_other_key">other</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_other_title">Other</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_popup_enabled_key">popup</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_popup_enabled_summaryoff">Message will only show in notification area</string>
     <string name="pref_popup_enabled_summaryon">Message will open in a popup</string>
     <string name="pref_popup_enabled_title">Show a Popup</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_privacy_always_key">privacy_always</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_privacy_always_summaryoff">Only use privacy mode when screen is locked</string>
     <string name="pref_privacy_always_summaryon">Privacy mode will always be used</string>
     <string name="pref_privacy_always_title">Always Use Privacy Mode</string>
     <string name="pref_privacy_category">Privacy</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_privacy_key">privacy</string>
     <string name="pref_privacy_sender_key">privacy_sender</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_privacy_sender_summaryoff">Message sender name will be shown</string>
     <string name="pref_privacy_sender_summaryon">Message sender name will also be hidden</string>
@@ -946,27 +946,27 @@
     <string name="pref_privacy_summaryon">Popup will use privacy mode </string>
     <string name="pref_privacy_title">Privacy Mode</string>
     <string name="pref_quickreply_bothreplybuttons">Both reply buttons are already active, to configure them please go to the Button Configuration screen</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_quickreply_cat_key">qrcat</string>
     <string name="pref_quickreply_key">quickreply</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_quickreply_noreplybuttons">No reply buttons are currently active, to configure them please go to the Button Configuration screen</string>
     <string name="pref_quickreply_summaryoff">Quick Reply is disabled</string>
     <string name="pref_quickreply_summaryon">Quick Reply is enabled</string>
     <string name="pref_quickreply_title">Quick Reply</string>
     <string name="pref_reminder_category_title">Reminder Configuration</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_reply_to_thread_key">replytype</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_screen_category">Screen Control</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_screen_on_key">screenon</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_screen_on_summaryoff">Screen will not turn on when popup shows</string>
     <string name="pref_screen_on_summaryon">Screen will turn on when popup shows</string>
@@ -975,28 +975,28 @@
     <string name="pref_sendemail_buttonok">Sure</string>
     <string name="pref_sendemail_dialog">Can I include your system information in the e-mail (this will help me troubleshoot bugs easier)?</string>
     <string name="pref_sendemail_title">E-mail the Developer</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_show_buttons_key">showbuttons</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_show_buttons_summaryoff">Buttons are hidden in long press menu</string>
     <string name="pref_show_buttons_summaryon">Buttons on popup are visible</string>
     <string name="pref_show_buttons_title">Show Buttons On Popup</string>
     <string name="pref_show_delete_button_dialog_text">Are you sure?</string>
     <string name="pref_show_delete_button_dialog_title">Delete Message</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_split_message_key">splitmessage</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_split_message_summaryoff">Long messages will not be split up (only needed for some CDMA carriers)</string>
     <string name="pref_split_message_summaryon">Long messages will be split up (only needed for some CDMA carriers)</string>
     <string name="pref_split_message_title">Split Long Messages</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_timeout_default">30</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_timeout_entries_10m">10 minutes</string>
     <string name="pref_timeout_entries_10s">10 seconds</string>
@@ -1005,45 +1005,45 @@
     <string name="pref_timeout_entries_2m">2 minutes</string>
     <string name="pref_timeout_entries_30s">30 seconds</string>
     <string name="pref_timeout_entries_5m">5 minutes</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_timeout_key">timeout</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_timeout_summary">The screen will sleep after this time</string>
     <string name="pref_timeout_title">Screen Timeout</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_useUnlockButton_key">useunlock</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_useUnlockButton_summaryoff">Regular buttons will show when screen is locked</string>
     <string name="pref_useUnlockButton_summaryon">Unlock button will show when screen is locked</string>
     <string name="pref_useUnlockButton_title">Show Unlock Button</string>
     <string name="pref_vibrate_category_title">Vibrate Configuration</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_vibrate_key">vibrate</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_vibrate_pattern_bad">Custom vibrate pattern invalid</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_vibrate_pattern_custom_key">vibrate_pattern_custom</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/defaults.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/defaults.xml -->
     <eat-comment/>
     <string name="pref_vibrate_pattern_default">0,1200</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_vibrate_pattern_entries_long">Long Vibrate</string>
     <string name="pref_vibrate_pattern_entries_multiple_long">Multiple Long</string>
     <string name="pref_vibrate_pattern_entries_multiple_short">Multiple Short</string>
     <string name="pref_vibrate_pattern_entries_normal">Normal</string>
     <string name="pref_vibrate_pattern_help">Enter a custom vibrate pattern, in the format:\nmillisOff, millisOn, etc.\n\nFor example:\n0,1000\n0,500,200,500,200,500</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="pref_vibrate_pattern_key">vibrate_pattern</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_vibrate_pattern_ok">Custom vibrate pattern set</string>
     <string name="pref_vibrate_pattern_summary">Set the vibration pattern</string>
@@ -1051,10 +1051,10 @@
     <string name="pref_vibrate_summaryoff">Vibrate is off</string>
     <string name="pref_vibrate_summaryon">Vibrate is on</string>
     <string name="pref_vibrate_title">Vibrate</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/keys.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/keys.xml -->
     <eat-comment/>
     <string name="quickmessages_key">quickmessages_key</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="quickreply_failed">Message failed to send</string>
     <string name="quickreply_failed_send_later">Currently unable to send your message. It will be sent when the service becomes available.</string>
@@ -1067,7 +1067,7 @@
     <string name="quickreply_title">Quick Reply</string>
     <string name="ringtone_silent">Silent</string>
     <string name="view_contact">View Contact</string>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialogPro">
         <!-- The core library has no default style -->
@@ -1092,7 +1092,7 @@
         <item name="android:windowEnterAnimation">@anim/adp_popup_enter_material</item>
         <item name="android:windowExitAnimation">@anim/adp_popup_exit_material</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/themes.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/themes.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="AppTheme.Base"/>
     <style name="AppTheme.Base" parent="Theme.AppCompat">
@@ -1101,7 +1101,7 @@
         <item name="android:windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
         <item name="android:textColor">?android:textColorPrimary</item>
@@ -1243,7 +1243,7 @@
     </style>
     <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Subtitle"/>
     <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="TextAppearance.AppCompat.Widget.ActionBar.Title"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Theme.AlertDialogPro" parent="Theme.AppCompat.Dialog"/>
     <style name="Base.Theme.AlertDialogPro.Light" parent="Theme.AppCompat.Light.Dialog">
@@ -1336,7 +1336,7 @@
         <item name="adpButtonBarButtonStyle">@style/Widget.AlertDialogPro.Material.Light.Button</item>
         <item name="alertDialogProStyle">@style/AlertDialogPro.Material.Light</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Theme.AppCompat" parent="Base.V7.Theme.AppCompat"/>
     <style name="Base.Theme.AppCompat.CompactMenu" parent="">
@@ -1736,7 +1736,7 @@
         <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
         <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.AlertDialogPro.Light.ListView" parent="android:Widget.ListView">
         <item name="android:listSelector">?attr/adpListItemBackground</item>
@@ -1760,7 +1760,7 @@
         <item name="android:minWidth">64dip</item>
         <item name="android:maxLines">2</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.AppCompat.ActionBar" parent="">
         <item name="displayOptions">showTitle</item>
@@ -1976,7 +1976,7 @@
         <item name="android:scaleType">center</item>
         <item name="android:background">?attr/selectableItemBackground</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ButtonBar">
         <item name="android:paddingTop">5dip</item>
@@ -1989,7 +1989,7 @@
     <style name="DialogTheme" parent="android:Theme.Dialog">
         <item name="android:windowBackground">@android:color/transparent</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="DialogWindowTitle.AlertDialogPro" parent="">
         <item name="android:maxLines">1</item>
@@ -2005,10 +2005,10 @@
         </item>
     </style>
     <style name="DialogWindowTitle.AlertDialogPro.Material.Light"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values/styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="NotificationIconPreferenceListItem" parent="@android:style/TextAppearance.Large.Inverse"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -2176,7 +2176,7 @@
     <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
         <item name="android:layout_marginLeft">@dimen/abc_dropdownitem_text_padding_left</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AlertDialogPro" parent="android:TextAppearance"/>
     <style name="TextAppearance.AlertDialogPro.DialogWindowTitle">
@@ -2185,7 +2185,7 @@
     <style name="TextAppearance.AlertDialogPro.Material.DialogWindowTitle" parent="TextAppearance.AppCompat.Title"/>
     <style name="TextAppearance.AlertDialogPro.Material.ListChoice" parent="TextAppearance.AppCompat.Medium"/>
     <style name="TextAppearance.AlertDialogPro.Material.Subhead" parent="TextAppearance.AppCompat.Subhead"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
@@ -2228,18 +2228,18 @@
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large"/>
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small"/>
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.TabPageIndicator" parent="Widget">
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">@color/vpi__dark_theme</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item"/>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle"/>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.AlertDialogPro" parent="Base.Theme.AlertDialogPro">
         <item name="adpButtonBarPositiveButtonStyle">?attr/adpButtonBarButtonStyle</item>
@@ -2259,7 +2259,7 @@
         <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
         <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
     <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
@@ -2277,23 +2277,23 @@
         <item name="windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.PageIndicatorDefaults" parent="android:Theme">
         <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
         <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AlertDialogPro" parent="android:Widget"/>
     <style name="Widget.AlertDialogPro.Material.Button" parent="Base.Widget.AlertDialogPro.Material.Button"/>
@@ -2303,7 +2303,7 @@
     <style name="Widget.AlertDialogPro.Material.Light.Button" parent="Base.Widget.AlertDialogPro.Material.Light.Button"/>
     <style name="Widget.AlertDialogPro.Material.Light.ListView" parent="Base.Widget.AlertDialogPro.Light.ListView"/>
     <style name="Widget.AlertDialogPro.Material.ListView" parent="Base.Widget.AlertDialogPro.ListView"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar"/>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid"/>
@@ -2358,7 +2358,7 @@
     <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Base.Widget.AppCompat.Spinner.DropDown.ActionBar"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.IconPageIndicator" parent="Widget">
         <item name="android:layout_marginLeft">6dp</item>
