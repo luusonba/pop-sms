@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/titleDivider"
+    android:layout_width="match_parent"
+    android:layout_height="2dip"
+    android:background="@android:color/holo_blue_light"
+    android:paddingBottom="2dp"
+    android:paddingTop="2dp" />
+<!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout-v14/popup_divider.xml -->

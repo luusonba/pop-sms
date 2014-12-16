@@ -1,0 +1,35 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.14.0'
+    }
+}
+apply plugin: 'android'
+
+repositories {
+    maven {
+        url 'https://github.com/Goddchen/mvn-repo/raw/master/'
+    }
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.1"
+
+    defaultConfig {        
+		applicationId "net.everythingandroid.smspopup"
+        minSdkVersion 8
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:21.0.2'
+    compile 'com.actionbarsherlock:viewpagerindicator:2.4.1'
+    compile project(':materialStuffLibrary')
+}

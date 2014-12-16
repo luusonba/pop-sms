@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+    <alpha
+        android:duration="150"
+        android:fromAlpha="0.0"
+        android:interpolator="@interpolator/adp_decelerate_cubic"
+        android:toAlpha="1.0" />
+</set>
+<!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/anim/adp_popup_enter_material.xml --><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/anim/adp_popup_enter_material.xml -->
