@@ -21,4 +21,4 @@
         android:layout_below="@android:id/text1"
         android:textAppearance="?android:attr/textAppearanceSmall" />
 
-</TwoLineListItem><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout/simple_list_item_2.xml -->
+</TwoLineListItem><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/layout/simple_list_item_2.xml -->

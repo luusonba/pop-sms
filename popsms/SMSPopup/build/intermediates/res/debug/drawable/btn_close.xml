@@ -25,4 +25,4 @@
     <item android:state_focused="true"
         android:drawable="@drawable/btn_close_selected" />
 </selector>
-<!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/drawable/btn_close.xml -->
+<!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/drawable/btn_close.xml -->

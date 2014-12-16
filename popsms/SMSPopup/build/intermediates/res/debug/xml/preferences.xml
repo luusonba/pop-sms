@@ -338,4 +338,4 @@
       android:summary="@string/pref_about_summary"
       android:negativeButtonText="@null" />
   </PreferenceCategory>
-</PreferenceScreen><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/xml/preferences.xml -->
+</PreferenceScreen><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/xml/preferences.xml -->

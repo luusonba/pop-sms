@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v21/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v21/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="android:TextAppearance.Material.Body1"/>
@@ -213,7 +213,7 @@
         <item name="android:colorControlActivated">?attr/colorControlActivated</item>
         <item name="android:colorControlHighlight">?attr/colorControlHighlight</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values-v21/adp_mtrl_styles.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values-v21/adp_mtrl_styles.xml -->
     <eat-comment/>
     <style name="Base.Widget.AlertDialogPro.Light.ListView" parent="android:Widget.Material.Light.ListView"/>
     <style name="Base.Widget.AlertDialogPro.ListView" parent="android:Widget.Material.ListView"/>
@@ -227,7 +227,7 @@
         <item name="android:minWidth">64dip</item>
         <item name="android:maxLines">2</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v21/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v21/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="android:Widget.Material.ActionBar.TabText"/>
     <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="android:Widget.Material.ActionBar.TabView"/>
@@ -285,7 +285,7 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/values-v21/adp_mtrl_themes.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/values-v21/adp_mtrl_themes.xml -->
     <eat-comment/>
     <style name="Theme.AlertDialogPro.Material" parent="Base.Theme.AlertDialogPro.Material"/>
     <style name="Theme.AlertDialogPro.Material.Light" parent="Base.Theme.AlertDialogPro.Material.Light"/>

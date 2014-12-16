@@ -36,4 +36,4 @@
         android:interpolator="@interpolator/decelerate_cubic"
         android:toAlpha="0.0" />
 
-</set><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/anim/shrink_fade_out_center_high.xml -->
+</set><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/anim/shrink_fade_out_center_high.xml -->

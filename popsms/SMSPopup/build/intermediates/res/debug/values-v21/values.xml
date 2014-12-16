@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/values-v21/themes.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/values-v21/themes.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="AppTheme.Base">
     <item name="android:windowContentTransitions">true</item>
@@ -9,7 +9,7 @@
     <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
     <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
 </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v21/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v21/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="android:TextAppearance.Material.Body1"/>
@@ -222,7 +222,7 @@
         <item name="android:colorControlActivated">?attr/colorControlActivated</item>
         <item name="android:colorControlHighlight">?attr/colorControlHighlight</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values-v21/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values-v21/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.AlertDialogPro.Light.ListView" parent="android:Widget.Material.Light.ListView"/>
     <style name="Base.Widget.AlertDialogPro.ListView" parent="android:Widget.Material.ListView"/>
@@ -236,7 +236,7 @@
         <item name="android:minWidth">64dip</item>
         <item name="android:maxLines">2</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v21/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-v21/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="android:Widget.Material.ActionBar.TabText"/>
     <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="android:Widget.Material.ActionBar.TabView"/>
@@ -294,7 +294,7 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
     </style>
-    <!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/values-v21/values.xml -->
+    <!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/values-v21/values.xml -->
     <eat-comment/>
     <style name="Theme.AlertDialogPro.Material" parent="Base.Theme.AlertDialogPro.Material"/>
     <style name="Theme.AlertDialogPro.Material.Light" parent="Base.Theme.AlertDialogPro.Material.Light"/>

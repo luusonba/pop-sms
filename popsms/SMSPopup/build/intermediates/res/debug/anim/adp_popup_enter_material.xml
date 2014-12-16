@@ -8,4 +8,4 @@
         android:interpolator="@interpolator/adp_decelerate_cubic"
         android:toAlpha="1.0" />
 </set>
-<!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/anim/adp_popup_enter_material.xml --><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/build/intermediates/exploded-aar/android-smspopup-bd527d82b149/materialStuffLibrary/unspecified/res/anim/adp_popup_enter_material.xml -->
+<!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/anim/adp_popup_enter_material.xml --><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/build/intermediates/exploded-aar/popsms/materialStuffLibrary/unspecified/res/anim/adp_popup_enter_material.xml -->

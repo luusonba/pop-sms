@@ -24,4 +24,4 @@
         android:paddingLeft="6dip"
         android:textAppearance="@style/NotificationIconPreferenceListItem" />
 
-</RelativeLayout><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout/notification_icon_listview_row.xml -->
+</RelativeLayout><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/layout/notification_icon_listview_row.xml -->

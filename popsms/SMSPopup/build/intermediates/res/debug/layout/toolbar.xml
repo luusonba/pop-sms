@@ -21,4 +21,4 @@
     android:id="@+id/toolbar"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="?attr/colorPrimaryDark"/><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout/toolbar.xml -->
+    android:background="?attr/colorPrimaryDark"/><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/layout/toolbar.xml -->

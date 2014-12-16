@@ -9,4 +9,4 @@
         <corners android:radius="2dp" />
         <solid android:color="@color/background_floating_material_dark" />
     </shape>
-</inset><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/src/main/res/drawable/adp_dialog_background_material_dark.xml --><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/materialStuffLibrary/build/intermediates/bundles/debug/res/drawable/adp_dialog_background_material_dark.xml -->
+</inset><!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/src/main/res/drawable/adp_dialog_background_material_dark.xml --><!-- From: file:/D:/Study/popsms/popsms/materialStuffLibrary/build/intermediates/bundles/debug/res/drawable/adp_dialog_background_material_dark.xml -->

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SMSPopup/SMSPopup.iml" filepath="$PROJECT_DIR$/SMSPopup/SMSPopup.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-smspopup-bd527d82b149.iml" filepath="$PROJECT_DIR$/android-smspopup-bd527d82b149.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialStuffLibrary/materialStuffLibrary.iml" filepath="$PROJECT_DIR$/materialStuffLibrary/materialStuffLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popsms.iml" filepath="$PROJECT_DIR$/popsms.iml" />
     </modules>
   </component>
 </project>

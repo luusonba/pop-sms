@@ -14,4 +14,4 @@
     android:autoLink="all"
     android:padding="11dp"
     android:text="@string/pref_about_text" />
-</ScrollView><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout/about.xml -->
+</ScrollView><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/layout/about.xml -->

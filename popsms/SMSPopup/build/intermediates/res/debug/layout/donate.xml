@@ -35,4 +35,4 @@
       android:layout_gravity="center_horizontal"
       android:text="@string/pref_donate_paypal_button"></Button>
   </LinearLayout>
-</ScrollView><!-- From: file:/D:/ThisisEnd/android-smspopup-bd527d82b149/SMSPopup/src/main/res/layout/donate.xml -->
+</ScrollView><!-- From: file:/D:/Study/popsms/popsms/SMSPopup/src/main/res/layout/donate.xml -->
