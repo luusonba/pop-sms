@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\pre-dexed\debug\classes-fa0faacf8f9ad4f502c8d0192f90aeff399efd34.jar" />
+    </item>
+    <item
+        jar="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\pre-dexed\debug\classes-bb7c69f8c6a4a40206c7e83054903afa22c022e0.jar" />
+    </item>
+    <item
+        jar="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\exploded-aar\com.actionbarsherlock\viewpagerindicator\2.4.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6f859c56f21c2976bdc8dc8da6185df0cda6b8ad">
+        <dex dex="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\pre-dexed\debug\classes-be784fa84f5df4e5a4ace8b72d47d27d03808e7a.jar" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-9559c7e22c25bf722b8c5055608cdd14b2737113.jar" />
+    </item>
+    <item
+        jar="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-03beae3228a186eb23d021de0cd638eabd55c75f.jar" />
+    </item>
+    <item
+        jar="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\exploded-aar\android-smspopup-bd527d82b149\materialStuffLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efde4cac34c0717c2657e01b11f34b24aa319180">
+        <dex dex="D:\ThisisEnd\android-smspopup-bd527d82b149\SMSPopup\build\intermediates\pre-dexed\debug\classes-b3ce987378915fb3919f40e1af12334e17734a8a.jar" />
+    </item>
+
+</items>

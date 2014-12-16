@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res"><file name="adp_popup_enter_material" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\anim\adp_popup_enter_material.xml" qualifiers="" type="anim"/><file name="adp_popup_exit_material" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\anim\adp_popup_exit_material.xml" qualifiers="" type="anim"/><file name="adp_btn_mtrl_dark" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\adp_btn_mtrl_dark.xml" qualifiers="" type="drawable"/><file name="adp_btn_mtrl_light" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\adp_btn_mtrl_light.xml" qualifiers="" type="drawable"/><file name="adp_btn_mtrl_sharp_dark" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\adp_btn_mtrl_sharp_dark.xml" qualifiers="" type="drawable"/><file name="adp_btn_mtrl_sharp_light" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\adp_btn_mtrl_sharp_light.xml" qualifiers="" type="drawable"/><file name="adp_dialog_background_material_dark" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\adp_dialog_background_material_dark.xml" qualifiers="" type="drawable"/><file name="adp_dialog_background_material_light" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\adp_dialog_background_material_light.xml" qualifiers="" type="drawable"/><file name="adp_item_background_material_dark" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\adp_item_background_material_dark.xml" qualifiers="" type="drawable"/><file name="adp_item_background_material_light" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\adp_item_background_material_light.xml" qualifiers="" type="drawable"/><file name="msl__action_bar_shadow" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\drawable\msl__action_bar_shadow.xml" qualifiers="" type="drawable"/><file name="adp_decelerate_cubic" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\interpolator\adp_decelerate_cubic.xml" qualifiers="" type="interpolator"/><file name="adp_alert_dialog_material" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\layout\adp_alert_dialog_material.xml" qualifiers="" type="layout"/><file name="adp_select_dialog_item_material" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\layout\adp_select_dialog_item_material.xml" qualifiers="" type="layout"/><file name="adp_select_dialog_material" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\layout\adp_select_dialog_material.xml" qualifiers="" type="layout"/><file name="adp_select_dialog_multichoice_material" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\layout\adp_select_dialog_multichoice_material.xml" qualifiers="" type="layout"/><file name="adp_select_dialog_singlechoice_material" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\layout\adp_select_dialog_singlechoice_material.xml" qualifiers="" type="layout"/><file name="msl__activity_preference" path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\layout\msl__activity_preference.xml" qualifiers="" type="layout"/><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values\adp_core_attrs.xml" qualifiers=""><attr format="dimension" name="adpListItemMinHeight"/><attr format="reference|color" name="adpListItemTextColor"/><attr format="reference" name="adpButtonBarStyle"/><attr format="reference" name="alertDialogProTheme"/><declare-styleable name="AlertDialogPro">
+        <!-- As HoneyComb's android:layout.
+             Specify your AlertDialogPro's layout -->
+        <attr format="reference" name="adpLayout"/>
+        <!-- As HoneyComb's android:listLayout.
+             Specify your AlertDialogPro's ListView layout. -->
+        <attr format="reference" name="adpListLayout"/>
+        <!-- As HoneyComb's android:listItemLayout.
+             Specify your AlertDialogPro's list item layout. -->
+        <attr format="reference" name="adpListItemLayout"/>
+        <!-- As HoneyComb's android:multiChoiceItemLayout.
+             Specify your AlertDialogPro's multi choice list item layout. -->
+        <attr format="reference" name="adpMultiChoiceItemLayout"/>
+        <!-- As HoneyComb's android:singleChoiceItemLayout.
+             Specify your AlertDialogPro's single choice list item layout. -->
+        <attr format="reference" name="adpSingleChoiceItemLayout"/>
+    </declare-styleable><attr format="reference" name="adpMessageTextAppearance"/><attr format="reference" name="adpButtonBarPositiveButtonStyle"/><attr format="dimension" name="adpTitleMinHeight"/><attr format="reference" name="adpListItemBackground"/><attr format="reference" name="adpButtonBarNeutralButtonStyle"/><attr format="reference" name="adpButtonBarNegativeButtonStyle"/><attr format="reference" name="adpListMultiChoiceTextAppearance"/><attr format="reference" name="adpListItemTextAppearance"/><attr format="reference" name="adpListDivider"/><attr format="reference" name="adpButtonBarButtonStyle"/><attr format="reference" name="alertDialogProStyle"/><attr format="reference" name="adpListSingleChoiceTextAppearance"/></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values\adp_core_ids.xml" qualifiers=""><item name="adp_custom" type="id"/><item name="adp_customPanel" type="id"/><item name="adp_topPanel" type="id"/><item name="adp_select_dialog_listview" type="id"/><item name="adp_alertTitle" type="id"/><item name="adp_buttonPanel" type="id"/><item name="adp_title_template" type="id"/><item name="adp_parentPanel" type="id"/><item name="adp_message" type="id"/><item name="adp_scrollView" type="id"/><item name="adp_titleDividerTop" type="id"/><item name="adp_button2" type="id"/><item name="adp_button3" type="id"/><item name="adp_button1" type="id"/><item name="adp_contentPanel" type="id"/><item name="adp_icon" type="id"/><item name="adp_titleDivider" type="id"/><item name="adp_textSpacerNoButtons" type="id"/></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values\adp_core_styles.xml" qualifiers=""><style name="AlertDialogPro">
+        <!-- The core library has no default style -->
+        <item name="adpLayout">@null</item>
+        <item name="adpListLayout">@null</item>
+        <item name="adpListItemLayout">@null</item>
+        <item name="adpMultiChoiceItemLayout">@null</item>
+        <item name="adpSingleChoiceItemLayout">@null</item>
+    </style><style name="Widget.AlertDialogPro" parent="android:Widget"/><style name="TextAppearance.AlertDialogPro.DialogWindowTitle">
+        <item name="android:textSize">18sp</item>
+    </style><style name="DialogWindowTitle.AlertDialogPro" parent="">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">@style/TextAppearance.AlertDialogPro.DialogWindowTitle
+        </item>
+    </style><style name="Animation.AlertDialogPro" parent="android:Animation"/><style name="TextAppearance.AlertDialogPro" parent="android:TextAppearance"/></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values\adp_core_themes.xml" qualifiers=""><style name="Theme.AlertDialogPro" parent="Base.Theme.AlertDialogPro">
+        <item name="adpButtonBarPositiveButtonStyle">?attr/adpButtonBarButtonStyle</item>
+        <item name="adpButtonBarNegativeButtonStyle">?attr/adpButtonBarButtonStyle</item>
+        <item name="adpButtonBarNeutralButtonStyle">?attr/adpButtonBarButtonStyle</item>
+    </style><style name="Base.Theme.AlertDialogPro.Light" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_light</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_light</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
+        <item name="android:textColorLink">@color/link_text_material_light</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+        <item name="android:spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style><style name="Base.Theme.AlertDialogPro" parent="Theme.AppCompat.Dialog"/><style name="Theme.AlertDialogPro.Light" parent="Base.Theme.AlertDialogPro.Light">
+        <item name="adpButtonBarPositiveButtonStyle">?attr/adpButtonBarButtonStyle</item>
+        <item name="adpButtonBarNegativeButtonStyle">?attr/adpButtonBarButtonStyle</item>
+        <item name="adpButtonBarNeutralButtonStyle">?attr/adpButtonBarButtonStyle</item>
+    </style></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values\adp_mtrl_colors.xml" qualifiers=""><color name="adp_mtrl_ripple_light">#20444444</color><color name="adp_mtrl_ripple_dark">#20ffffff</color></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values\adp_mtrl_dimens.xml" qualifiers=""><dimen name="adp_mtrl_control_inset">4dp</dimen><dimen name="adp_mtrl_alert_dialog_padding">24dp</dimen><dimen name="adp_mtrl_button_padding_vertical">@dimen/adp_mtrl_control_padding</dimen><dimen name="adp_mtrl_control_corner">2dp</dimen><dimen name="adp_mtrl_button_padding_horizontal">8dp</dimen><dimen name="adp_mtrl_alert_dialog_padding_top">18dp</dimen><dimen name="adp_mtrl_control_padding">4dp</dimen><dimen name="adp_mtrl_button_inset_vertical">6dp</dimen><dimen name="adp_mtrl_alert_dialog_button_bar_height">48dip</dimen><dimen name="adp_mtrl_button_inset_horizontal">@dimen/adp_mtrl_control_inset</dimen></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values\adp_mtrl_styles.xml" qualifiers=""><style name="Animation.AlertDialogPro.Material"/><style name="Widget.AlertDialogPro.Material.Button" parent="Base.Widget.AlertDialogPro.Material.Button"/><style name="AlertDialogPro.Material.Light"/><style name="TextAppearance.AlertDialogPro.Material.Subhead" parent="TextAppearance.AppCompat.Subhead"/><style name="Base.Widget.AlertDialogPro.Light.ListView" parent="android:Widget.ListView">
+        <item name="android:listSelector">?attr/adpListItemBackground</item>
+    </style><style name="AlertDialogPro.Material">
+        <item name="adpLayout">@layout/adp_alert_dialog_material</item>
+        <item name="adpListLayout">@layout/adp_select_dialog_material</item>
+        <item name="adpListItemLayout">@layout/adp_select_dialog_item_material</item>
+        <item name="adpMultiChoiceItemLayout">@layout/adp_select_dialog_multichoice_material</item>
+        <item name="adpSingleChoiceItemLayout">@layout/adp_select_dialog_singlechoice_material
+        </item>
+    </style><style name="Base.Widget.AlertDialogPro.Material.Light.Button" parent="android:Widget.Button">
+        <item name="android:background">@drawable/adp_btn_mtrl_light</item>
+        <item name="android:textColor">?attr/colorAccent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:minHeight">@dimen/adp_mtrl_alert_dialog_button_bar_height</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:maxLines">2</item>
+    </style><style name="Widget.AlertDialogPro.Material.ListView" parent="Base.Widget.AlertDialogPro.ListView"/><style name="Widget.AlertDialogPro.Material.Light.ListView" parent="Base.Widget.AlertDialogPro.Light.ListView"/><style name="Base.Widget.AlertDialogPro.ListView" parent="android:Widget.ListView">
+        <item name="android:listSelector">?attr/adpListItemBackground</item>
+    </style><style name="TextAppearance.AlertDialogPro.Material.ListChoice" parent="TextAppearance.AppCompat.Medium"/><style name="Animation.AlertDialogPro.Material.Dialog">
+        <item name="android:windowEnterAnimation">@anim/adp_popup_enter_material</item>
+        <item name="android:windowExitAnimation">@anim/adp_popup_exit_material</item>
+    </style><style name="DialogWindowTitle.AlertDialogPro.Material.Light"/><style name="Base.Widget.AlertDialogPro.Material.Button" parent="android:Widget.Button">
+        <item name="android:background">@drawable/adp_btn_mtrl_dark</item>
+        <item name="android:textColor">?attr/colorAccent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:minHeight">@dimen/adp_mtrl_alert_dialog_button_bar_height</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:maxLines">2</item>
+    </style><style name="TextAppearance.AlertDialogPro.Material.DialogWindowTitle" parent="TextAppearance.AppCompat.Title"/><style name="Widget.AlertDialogPro.Material.Light.Button" parent="Base.Widget.AlertDialogPro.Material.Light.Button"/><style name="DialogWindowTitle.AlertDialogPro.Material">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">
+            @style/TextAppearance.AlertDialogPro.Material.DialogWindowTitle
+        </item>
+    </style><style name="Widget.AlertDialogPro.Material.ButtonBar" parent="">
+        <item name="android:background">@null</item>
+    </style></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values\adp_mtrl_themes.xml" qualifiers=""><style name="Theme.AlertDialogPro.Material.Light" parent="Base.Theme.AlertDialogPro.Material.Light">
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style><style name="Base.Theme.AlertDialogPro.Material" parent="Theme.AlertDialogPro">
+        <!-- Animation -->
+        <item name="android:windowAnimationStyle">@style/Animation.AlertDialogPro.Material.Dialog</item>
+        <!-- Background -->
+        <item name="android:windowBackground">@drawable/adp_dialog_background_material_dark</item>
+        <!-- Title -->
+        <item name="android:windowTitleStyle">@style/DialogWindowTitle.AlertDialogPro.Material</item>
+        <item name="adpTitleMinHeight">0dp</item>
+        <!-- Message -->
+        <item name="adpMessageTextAppearance">@style/TextAppearance.AlertDialogPro.Material.Subhead</item>
+        <!-- ListView -->
+        <item name="adpListItemMinHeight">48dip</item>
+        <item name="adpListItemTextColor">?android:attr/textColorPrimary</item>
+        <item name="adpListItemTextAppearance">@style/TextAppearance.AlertDialogPro.Material.Subhead</item>
+        <item name="adpListSingleChoiceTextAppearance">@style/TextAppearance.AlertDialogPro.Material.ListChoice</item>
+        <item name="adpListMultiChoiceTextAppearance">@style/TextAppearance.AlertDialogPro.Material.ListChoice</item>
+        <item name="adpListItemBackground">@drawable/adp_item_background_material_dark</item>
+        <item name="adpListDivider">@null</item>
+        <item name="android:listViewStyle">@style/Widget.AlertDialogPro.Material.ListView</item>
+        <!-- ButtonBar-->
+        <item name="adpButtonBarStyle">@style/Widget.AlertDialogPro.Material.ButtonBar</item>
+        <item name="adpButtonBarButtonStyle">@style/Widget.AlertDialogPro.Material.Button</item>
+        <item name="alertDialogProStyle">@style/AlertDialogPro.Material</item>
+    </style><style name="Theme.AlertDialogPro.Material" parent="Base.Theme.AlertDialogPro.Material">
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style><style name="Base.Theme.AlertDialogPro.Material.Light" parent="Theme.AlertDialogPro.Light">
+        <!-- Animation -->
+        <item name="android:windowAnimationStyle">@style/Animation.AlertDialogPro.Material.Dialog</item>
+        <!-- Background -->
+        <item name="android:windowBackground">@drawable/adp_dialog_background_material_light</item>
+        <!-- Title -->
+        <item name="android:windowTitleStyle">@style/DialogWindowTitle.AlertDialogPro.Material.Light</item>
+        <item name="adpTitleMinHeight">0dp</item>
+        <!-- Message -->
+        <item name="adpMessageTextAppearance">@style/TextAppearance.AlertDialogPro.Material.Subhead</item>
+        <!-- ListView -->
+        <item name="adpListItemMinHeight">48dip</item>
+        <item name="adpListItemTextColor">?android:attr/textColorPrimary</item>
+        <item name="adpListItemTextAppearance">@style/TextAppearance.AlertDialogPro.Material.Subhead</item>
+        <item name="adpListSingleChoiceTextAppearance">@style/TextAppearance.AlertDialogPro.Material.ListChoice</item>
+        <item name="adpListMultiChoiceTextAppearance">@style/TextAppearance.AlertDialogPro.Material.ListChoice</item>
+        <item name="adpListItemBackground">@drawable/adp_item_background_material_light</item>
+        <item name="adpListDivider">@null</item>
+        <item name="android:listViewStyle">@style/Widget.AlertDialogPro.Material.Light.ListView</item>
+        <!-- ButtonBar-->
+        <item name="adpButtonBarStyle">@style/Widget.AlertDialogPro.Material.ButtonBar</item>
+        <item name="adpButtonBarButtonStyle">@style/Widget.AlertDialogPro.Material.Light.Button</item>
+        <item name="alertDialogProStyle">@style/AlertDialogPro.Material.Light</item>
+    </style></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values-h720dp\adp_mtrl_dimens.xml" qualifiers="h720dp-v13"><dimen name="adp_mtrl_alert_dialog_button_bar_height">54dip</dimen></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values-v11\adp_core_themes.xml" qualifiers="v11"><style name="Base.Theme.AlertDialogPro.Light" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+    </style><style name="Base.Theme.AlertDialogPro" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+    </style></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values-v14\adp_mtrl_styles.xml" qualifiers="v14"><style name="Base.Widget.AlertDialogPro.Material.Light.Button" parent="android:Widget.Button">
+        <item name="android:background">@drawable/adp_btn_mtrl_light</item>
+        <item name="android:textColor">?attr/colorAccent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:minHeight">@dimen/adp_mtrl_alert_dialog_button_bar_height</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textAllCaps">true</item>
+    </style><style name="Base.Widget.AlertDialogPro.Material.Button" parent="android:Widget.Button">
+        <item name="android:background">@drawable/adp_btn_mtrl_dark</item>
+        <item name="android:textColor">?attr/colorAccent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:minHeight">@dimen/adp_mtrl_alert_dialog_button_bar_height</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textAllCaps">true</item>
+    </style></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values-v21\adp_mtrl_styles.xml" qualifiers="v21"><style name="Base.Widget.AlertDialogPro.ListView" parent="android:Widget.Material.ListView"/><style name="Base.Widget.AlertDialogPro.Material.Button" parent="android:Widget.Material.Button.Borderless.Colored">
+        <item name="android:minHeight">@dimen/adp_mtrl_alert_dialog_button_bar_height</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:maxLines">2</item>
+    </style><style name="Base.Widget.AlertDialogPro.Light.ListView" parent="android:Widget.Material.Light.ListView"/><style name="Base.Widget.AlertDialogPro.Material.Light.Button" parent="android:Widget.Material.Light.Button.Borderless.Colored">
+        <item name="android:minHeight">@dimen/adp_mtrl_alert_dialog_button_bar_height</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:maxLines">2</item>
+    </style></file><file path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\main\res\values-v21\adp_mtrl_themes.xml" qualifiers="v21"><style name="Theme.AlertDialogPro.Material.Light" parent="Base.Theme.AlertDialogPro.Material.Light"/><style name="Theme.AlertDialogPro.Material" parent="Base.Theme.AlertDialogPro.Material"/></file></source><source path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\build\generated\res\rs\release"/><source path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="D:\ThisisEnd\android-smspopup-bd527d82b149\materialStuffLibrary\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialogPro"><attr format="reference" name="adpLayout"/><attr format="reference" name="adpListLayout"/><attr format="reference" name="adpListItemLayout"/><attr format="reference" name="adpMultiChoiceItemLayout"/><attr format="reference" name="adpSingleChoiceItemLayout"/></declare-styleable></configuration></mergedItems></merger>
