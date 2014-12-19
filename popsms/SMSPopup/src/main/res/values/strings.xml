@@ -275,4 +275,6 @@
     <string name="pref_led_pattern_entries_normal">Normal</string>
     <string name="pref_led_pattern_entries_slow">Slow</string>
 
+    <string name="main_empty_list">There is no recent conversation, write new message
+		to start one.</string>
 </resources>
